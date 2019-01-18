@@ -1,0 +1,2 @@
+# pages
+simple page handler
